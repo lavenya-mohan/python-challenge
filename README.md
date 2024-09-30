@@ -8,3 +8,7 @@ The task is to create a Python script that analyzes the financial records of a c
 + The changes in "Profit/Losses" over the entire period, and then the average of those changes
 + The greatest increase in profits (date and amount) over the entire period
 + The greatest decrease in profits (date and amount) over the entire period
+
+### Expected Output:
+
+![image](https://github.com/user-attachments/assets/82efa921-d6cb-417d-ad4f-3ebd1918dd90)
