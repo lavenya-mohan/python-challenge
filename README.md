@@ -10,13 +10,13 @@ The task is to create a Python script that analyzes the financial records of a c
 - [x] The greatest decrease in profits (date and amount) over the entire period
 
 ### Expected Output:
-- Financial Analysis
-\\----------------------------
-- Total Months: 86
-- Total: $22564198
-- Average Change: $-8311.11
-- Greatest Increase in Profits: Aug-16 ($1862002)
-- Greatest Decrease in Profits: Feb-14 ($-1825558)
+<br/>Financial Analysis
+<br/>----------------------------
+<br/>Total Months: 86
+<br/>Total: $22564198
+<br/>Average Change: $-8311.11
+<br/>Greatest Increase in Profits: Aug-16 ($1862002)
+<br/>Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
 ## _PyPoll_
