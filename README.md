@@ -28,4 +28,13 @@ The task is to create a Python script that helps to analyze a small, rural town 
 - [x] The winner of the election based on popular vote
 
 ### Expected Output:
-
+<br/>Election Results
+<br/>-------------------------
+<br/>Total Votes: 369711
+<br/>-------------------------
+<br/>Charles Casper Stockham: 23.049% (85213)
+<br/>Diana DeGette: 73.812% (272892)
+<br/>Raymon Anthony Doane: 3.139% (11606)
+<br/>-------------------------
+<br/>Winner: Diana DeGette
+<br/>-------------------------
