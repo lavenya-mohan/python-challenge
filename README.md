@@ -20,7 +20,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Losses: Feb-14 ($-1825558)
 
 ## _PyPoll_
-The task is to create a Python script that helps to analyze a small, rural town to modernize its vote-counting process. A set of poll data called  $${\color{lightblue}election_data.csv}$$ will be provided, composed of three columns: Voter ID", "County", and "Candidate". The goal is to generate insights from this data using Python.
+The task is to create a Python script that helps to analyze a small, rural town to modernize its vote-counting process. A set of poll data called  $${\color{lightblue}"election_data.csv"}$$ will be provided, composed of three columns: Voter ID", "County", and "Candidate". The goal is to generate insights from this data using Python.
 - [x] The total number of votes cast
 - [x] A complete list of candidates who received votes
 - [x] The percentage of votes each candidate won
