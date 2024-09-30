@@ -11,13 +11,8 @@ The task is to create a Python script that analyzes the financial records of a c
 
 ### Expected Output:
 
-Financial Analysis
--------------------
-Total Months: 86
-Total: $22564198
-Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16 ($1862002)
-Greatest Decrease in Losses: Feb-14 ($-1825558)
+![image](https://github.com/user-attachments/assets/73e92b6e-6f52-435b-8bc3-dae9a1f94acf)
+
 
 ## _PyPoll_
 The task is to create a Python script that helps to analyze a small, rural town to modernize its vote-counting process. A set of poll data called  $${\color{lightblue}election\\_data.csv}$$ will be provided, composed of three columns: Voter ID", "County", and "Candidate". The goal is to generate insights from this data using Python.
@@ -29,13 +24,4 @@ The task is to create a Python script that helps to analyze a small, rural town 
 
 ### Expected Output:
 
-Election Results
--------------------------
-Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
+![image](https://github.com/user-attachments/assets/91c00b82-82aa-4260-8f48-5f1e8acc5ddd)
