@@ -12,7 +12,7 @@ The task is to create a Python script that analyzes the financial records of a c
 ### Expected Output:
 
 Financial Analysis
-----------------------------
+-------------------
 Total Months: 86
 Total: $22564198
 Average Change: $-8311.11
