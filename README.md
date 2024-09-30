@@ -10,8 +10,13 @@ The task is to create a Python script that analyzes the financial records of a c
 - [x] The greatest decrease in profits (date and amount) over the entire period
 
 ### Expected Output:
-
-![image](https://github.com/user-attachments/assets/73e92b6e-6f52-435b-8bc3-dae9a1f94acf)
+- Financial Analysis
+\\----------------------------
+- Total Months: 86
+- Total: $22564198
+- Average Change: $-8311.11
+- Greatest Increase in Profits: Aug-16 ($1862002)
+- Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
 ## _PyPoll_
@@ -24,4 +29,3 @@ The task is to create a Python script that helps to analyze a small, rural town 
 
 ### Expected Output:
 
-![image](https://github.com/user-attachments/assets/91c00b82-82aa-4260-8f48-5f1e8acc5ddd)
