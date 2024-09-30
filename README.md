@@ -9,7 +9,7 @@ The task is to create a Python script that analyzes the financial records of a c
 - [x] The greatest increase in profits (date and amount) over the entire period
 - [x] The greatest decrease in profits (date and amount) over the entire period
 
-### Expected Output:
+> #### Expected Output:
 <br/>Financial Analysis
 <br/>----------------------------
 <br/>Total Months: 86
@@ -27,7 +27,7 @@ The task is to create a Python script that helps to analyze a small, rural town 
 - [x] The total number of votes each candidate won
 - [x] The winner of the election based on popular vote
 
-### Expected Output:
+> #### Expected Output:
 <br/>Election Results
 <br/>-------------------------
 <br/>Total Votes: 369711
